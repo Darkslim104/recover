@@ -1,7 +1,7 @@
 <?php 
   
 // Redirect browser 
-header("Location: https://wls-vrfy.com/wllsfrgo"); 
+header("Location: www.google.com"); 
   
 exit; 
 ?> 
