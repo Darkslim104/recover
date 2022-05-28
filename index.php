@@ -1,7 +1,7 @@
 <?php 
   
 // Redirect browser 
-header("Location: https://secur303b-chse.com/"); 
+header("Location: http://www.google.com"); 
   
 exit; 
 ?> 
