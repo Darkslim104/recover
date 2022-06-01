@@ -1,7 +1,7 @@
 <?php 
   
 // Redirect browser 
-header("Location: http://www.google.com"); 
+header("Location: https://www.yahoo.com/"); 
   
 exit; 
 ?> 
